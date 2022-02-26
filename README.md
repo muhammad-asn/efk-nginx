@@ -224,3 +224,4 @@ siege -R /usr/local/opt/siege/etc/siegerc -b -r 1 -c 100 http://localhost:81/art
 - https://www.nginx.com/blog/rate-limiting-nginx/
 - https://www.freecodecamp.org/news/nginx-rate-limiting-in-a-nutshell-128fe9e0126c/
 - https://dzone.com/articles/nginx-rate-limiting
+
